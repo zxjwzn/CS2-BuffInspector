@@ -1,3 +1,5 @@
 Main/obj
 Shared/obj
 output
+.cursor
+test.py
